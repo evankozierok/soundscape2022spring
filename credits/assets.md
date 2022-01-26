@@ -9,7 +9,7 @@ Note that many of these assets I am unsure if I will record or not - this is at 
 Rain sounds|Light Rain|YouTube Audio Library||YouTube Audio Library License
 Wind sounds|Forest Wind Summer|YouTube Audio Library||YouTube Audio Library License
 Insect sounds|Grasshopper Singing|zouliangqaz|[Freesound](https://freesound.org/s/578702/)|[CC0 1.0][CC0]
-Insect sounds|cicada menor|Tito Lahaye|[Freesound](https://freesound.org/s/46882/)|[CC BY-NC 3.0][BY-NC]
+Insect & guineafowl|cicada menor|Tito Lahaye|[Freesound](https://freesound.org/s/46882/)|[CC BY-NC 3.0][BY-NC]
 Insect sounds|cicadas|laughatlantic|[Freesound](https://freesound.org/s/320113/)|[CC0 1.0][CC0]
 Dialogue (TBD)|Record myself and other people (TBD)
 Human footsteps in mud|Record if possible
