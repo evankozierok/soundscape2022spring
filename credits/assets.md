@@ -20,6 +20,18 @@ T. rex roar|Tyrannosaurus Rex|Mike Koenig|[SoundBible](https://soundbible.com/13
 T. rex eating Wallace (spoiler alert!)|Chewing ice, Starburst candy, and crushing leaves|Evan Kozierok||Own work 
 Background music: <br><ul><li>Light drums, harps maybe?</li><li>Heavy/dramatic drums</li></ul>|Source online
 
+Drums of the Deep by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/3681-drums-of-the-deep
+License: https://filmmusic.io/standard-license
+
+Trouble With Tribals by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/6621-trouble-with-tribals
+License: https://filmmusic.io/standard-license
+
+Firebrand by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/3757-firebrand
+License: https://filmmusic.io/standard-license
+
 [CC0]: https://creativecommons.org/publicdomain/zero/1.0/
 [BY-NC]: https://creativecommons.org/licenses/by-nc/3.0/
 [BY]: https://creativecommons.org/licenses/by/3.0/

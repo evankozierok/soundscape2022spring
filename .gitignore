@@ -1,4 +1,5 @@
 
 *.aup3-wal
 *.aup3-shm
+*.aup3_compact_back
 sound
