@@ -1,10 +1,8 @@
 # The King of the Jungle
 
-> *Scene: Two explorers, Wallace and Evelyn are walking through a jungle. It is lightly raining and there is a bit of rain rustling leaves. Their boots squelch through mud as they walk, and they push away leaves in their path. In the background, exotic birds are calling and insects and frogs loudly buzz and croak.*
+> *Scene: Two explorers, Wallace and Evelyn, are walking through a jungle. It is lightly raining. Their boots squelch through mud as they walk, and they push away leaves in their path. In the background, exotic birds are calling and insects buzz and chirp. A light drum beat plays under the natural sounds.*
 
-> *After about 10-15 seconds, the loud background fades a bit as dialogue starts.*
-
-To do: develop character and setting. Wallace is knowledgeable and this makes him wary of the jungle and its dangers. Evelyn is perfectly competent to travel in the jungle, but has less experience and curiosity.
+> *After about 10-15 seconds, the loud background fades a bit as dialogue starts, Wallace speaking at Evelyn's right side.*
 
 EVELYN (speaks with a light, excited voice): I have to say, the biodiversity here is stunning. Do you think we'll actually see any dinosaurs?
 
@@ -20,9 +18,9 @@ WALLACE: I'm not sure how that's supposed to make me feel better.
 
 EVELYN: What I'm saying is--
 
-> *As conversation continues, thunderous footsteps are barely audible from behind, growing in volume. They seem to be coming closer.*
+> *As conversation continues, thunderous footsteps are barely audible from the right, growing in volume. They seem to be coming closer. The music and jungle sounds fade to silence.*
 
-WALLACE: Wait, shh! *(They stop moving. In a hushed tone:)* You hear that?
+WALLACE: Wait wait wait wait wait wait, shh! *(They stop moving. In a hushed tone:)* You hear that?
 
 EVELYN *(hushed)*: Mm-hm.
 
@@ -34,16 +32,22 @@ WALLACE: I don't know, I don't want to know, let's just get out of here, okay?
 
 EVELYN: Come on, I just want to get a quick sketch of it.
 
-> *The large footsteps briefly stop. There is a huge roar, and the footsteps begin again, louder and faster.*
+> *The large footsteps briefly stop. There is a huge roar that echoes in the jungle.*
 
 Wallace: Shit! RUN!
 
-> *General chaos. Muddy footsteps and rustling return at a faster pace. Two sets of footsteps are now audible: One from nearby (Evelyn's), and one from her right (Wallace's). The large footsteps become very loud to her right.*
+> *General chaos. The muddy footsteps and leaves rustling return at a faster pace. Two sets of human footsteps are now audible: One from nearby (Evelyn's), and one from her right (Wallace's). Evelyn is breathing heavily. The dinosaur's large footsteps begin again, louder and faster than before. An intense drum beat begins in sync with the rhythm of the dinosaur's booming steps.*
 
-> *Evelyn jumps into a bush, making a rustling noise. Her heartbeat and breathing are audible. To the left: Another huge roar; Wallace screams; sounds of crunching and chewing as the dinosaur gobbles him up.*
+> *Wallace screams as his footsteps stop, the scream echoing. There are sounds of crunching and chewing as the dinosaur gobbles him up.*
 
-EVELYN *(whispered)*: My god... she's so beautiful.
+EVELYN *(hushed)*: My god... she's so beautiful.
 
 > *After a brief moment, the dinosaur begins to stomp off, and the background noise of the jungle returns.*
 
+> *The background noise fades off. Silence.*
+
 **THE END**
+
+NOAH: My name is Noah Siegel, and I give Evan Kozierok permission to use my voice in this project.
+
+LAUREL: My name is Laurel Petersen, and I give Evan Kozierok permission to use my voice for his audio narrative.
