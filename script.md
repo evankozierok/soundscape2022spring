@@ -2,7 +2,7 @@
 
 > *Scene: Two explorers, Wallace and Evelyn, are walking through a jungle. It is lightly raining. Their boots squelch through mud as they walk, and they push away leaves in their path. In the background, exotic birds are calling and insects buzz and chirp. A light drum beat plays under the natural sounds.*
 
-> *After about 10-15 seconds, the loud background fades a bit as dialogue starts, Wallace speaking at Evelyn's right side.*
+> *After about 15 seconds, the loud background fades a bit as dialogue starts, Wallace speaking at Evelyn's right side.*
 
 EVELYN (speaks with a light, excited voice): I have to say, the biodiversity here is stunning. Do you think we'll actually see any dinosaurs?
 
