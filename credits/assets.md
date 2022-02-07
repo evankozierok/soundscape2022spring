@@ -7,6 +7,7 @@ Unless otherwise specified, sources have been modified. Effects include changing
 Rain sounds|Light Rain|YouTube Audio Library||YouTube Audio Library License
 Insect sounds|Grasshopper Singing|zouliangqaz|[Freesound](https://freesound.org/s/578702/)|[CC0 1.0][CC0]
 Insect & guineafowl|cicada menor|Tito Lahaye|[Freesound](https://freesound.org/s/46882/)|[CC BY-NC 3.0][BY-NC]
+Tropical Birds|Birds01|Tobias_Sieben|[Freesound](https://freesound.org/people/Tobias_Sieben/sounds/414255/)|[CC BY-NC 3.0][BY-NC]
 Evelyn's dialogue|Laurel's Voice|Laurel Petersen||Vocal Permission (at end of soundscape)
 Wallace's dialogue|Noah's Voice|Noah Siegel||Vocal Permission (at end of soundscape)
 Human footsteps in mud|Recorded in Schenley Park|Evan Kozierok||Own work
